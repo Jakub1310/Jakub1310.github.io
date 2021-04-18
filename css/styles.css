@@ -149,12 +149,12 @@ sup {
 }
 
 a { /* TEXT LINK COLOUR */
-  color: #E74958;
+  color: #ffffff;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover { /* TEXT LINK COLOUR HOVER */
-  color: #F02525;
+  color: #5ec0eb;
   text-decoration: underline;
 }
 

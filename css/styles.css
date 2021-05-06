@@ -154,7 +154,7 @@ a { /* TEXT LINK COLOUR */
   background-color: transparent;
 }
 a:hover { /* TEXT LINK COLOUR HOVER */
-  color: #5ec0eb;
+  color: #2c3e50;
   text-decoration: underline;
 }
 
